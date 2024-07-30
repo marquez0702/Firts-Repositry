@@ -1,2 +1,2 @@
-# Firts-Repositry
+# Firts-Repository
 my repositry
